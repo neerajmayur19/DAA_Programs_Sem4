@@ -42,3 +42,4 @@ g.add_edge(4,6,3)
 
 min_cost = g.prim()
 print(min_cost)
+#Include an extra function to compute the minimum spanning tree using Prim's algorithm
